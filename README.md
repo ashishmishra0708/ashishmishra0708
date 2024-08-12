@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aashishmishra78" target="blank"><img src="https://img.shields.io/twitter/follow/aashishmishra78?logo=twitter&style=for-the-badge" alt="aashishmishra78" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Based Apk**
+- 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **ReactNode, DP**
+- 🌱 I’m currently learning **JAVA, Spring Boot**
 
-- 💬 Ask me about **React,Web-Development**
+- 💬 Ask me about **Web Development and APP Development**
 
 - 📫 How to reach me **Aashish Mishra**
 
